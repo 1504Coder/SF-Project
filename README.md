@@ -8,5 +8,3 @@ and store all of these inspections into a separate restaurant object (depending 
 restaurants will then be added to the RestaurantList object which will hold these restaurants. 
 The SFRestaurantData.java class is what accepts user input and searches for the data to find what the user inputted. 
 It adds each matching name or zip according to the user input to the RestaurantList object. Then each restaurant object is iterated through and printed.
-
-# Instructions on how to run
